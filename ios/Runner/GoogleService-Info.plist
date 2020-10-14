@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>225774830828-bamm89i4annb7hiieaidsqg8m5oq350c.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.225774830828-bamm89i4annb7hiieaidsqg8m5oq350c</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCQgNCHpb3HjA7rHmWolDbdw8aFYE2Ph3c</string>
+	<key>GCM_SENDER_ID</key>
+	<string>225774830828</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.meloetApp</string>
+	<key>PROJECT_ID</key>
+	<string>meloet-7fad7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>meloet-7fad7.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:225774830828:ios:5d5c81cf315ef2605551c9</string>
+	<key>DATABASE_URL</key>
+	<string>https://meloet-7fad7.firebaseio.com</string>
+</dict>
+</plist>

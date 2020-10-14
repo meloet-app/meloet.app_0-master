@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "225774830828",
+    "firebase_url": "https://meloet-7fad7.firebaseio.com",
+    "project_id": "meloet-7fad7",
+    "storage_bucket": "meloet-7fad7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225774830828:android:390993553ace06d35551c9",
+        "android_client_info": {
+          "package_name": "com.yukihana.meloet_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225774830828-93g5mm0qr6ekir864idms4m6afq98avq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhKrAqcTelNrDTOPDHL_paDEbHnC9bw1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225774830828-93g5mm0qr6ekir864idms4m6afq98avq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "225774830828-bamm89i4annb7hiieaidsqg8m5oq350c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.meloetApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
